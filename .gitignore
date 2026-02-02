@@ -1,0 +1,15 @@
+# Foundry
+blockchain/lib/
+blockchain/broadcast/
+blockchain/cache/
+blockchain/out/
+
+# Env
+.env
+.env.*
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
